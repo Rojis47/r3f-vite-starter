@@ -9,9 +9,16 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.18",
+    "@heroicons/react": "^2.1.1",
     "@react-three/drei": "9.75.0",
     "@react-three/fiber": "8.13.3",
+    "@splinetool/loader": "^1.0.30",
+    "@splinetool/r3f-spline": "^1.0.2",
+    "@splinetool/react-spline": "^2.2.6",
+    "@splinetool/runtime": "^1.0.30",
     "@types/three": "0.152.1",
+    "leva": "^0.9.35",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "three": "0.153.0"
@@ -20,6 +27,9 @@
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "@vitejs/plugin-react": "^3.1.0",
+    "autoprefixer": "^10.4.17",
+    "postcss": "^8.4.33",
+    "tailwindcss": "^3.4.1",
     "vite": "^4.1.0"
   }
 }
